@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Credit Card Fraud Detection Web App</title>
-    <!-- <link rel="stylesheet" type="text/css" href="../static/css/styles.css"> -->
+    <link rel="stylesheet" type="text/css" href="../static/styles.css">
     <link
       href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap"
       rel="stylesheet"
@@ -17,14 +17,14 @@
     <header>
       <div class="container">
         <h1>
-          <p style="text-align: center">Credit Card Fraud Detection Rest API</p>
+          <p style="text-align: center">Credit Card Fraud Detection System</p>
         </h1>
       </div>
     </header>
 
     <div class="ml-container">
       <p style="text-align: center">
-        Enter the 30 feature values in the below cell(in order):
+        Enter the feature values in the below cell(in order):
       </p>
 
       <form action="{{ url_for('predict')}}" method="POST">
