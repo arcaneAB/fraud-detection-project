@@ -18,7 +18,7 @@ Dr. Harsh Pratap Singh
 
 #### Department of Computer Science & Engineering   
 ##### Faculty of Engineering   
-#### MEDI-CAPS UNIVERSITY, INDORE- 453331
+##### MEDI-CAPS UNIVERSITY, INDORE- 453331
 
 
 ### Demo Link:
